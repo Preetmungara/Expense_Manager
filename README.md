@@ -9,6 +9,8 @@ Flutter app that tracks for all your expenses and income, also analyze and repre
 		<tr>
 			<td><img hegiht ="50%" width="50%"  src="https://github.com/Preetmungara/Expense_manager/blob/master/UI/GET-STARTED-1.png" /> </td>
 			<td><img hegiht ="50%" width="50%"  src="https://github.com/Preetmungara/Expense_manager/blob/master/UI/GET%20STARTED%202.png" /></td>
+		</tr>
+		<tr>
 			</td><img hegiht ="50%" width="50%"  src="https://github.com/Preetmungara/Expense_manager/blob/master/UI/GET%20STARTED%203png.png" /></td>
 		</tr>
 	</table>
