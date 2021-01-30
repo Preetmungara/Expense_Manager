@@ -43,4 +43,3 @@ Flutter app that tracks for all your expenses and income, also analyze and repre
 <img hegiht ="50%" width="50%"  src="https://github.com/Preetmungara/Expense_manager/blob/master/UI/FILTER%20DATE%201.png" />
 
 
-</div>
