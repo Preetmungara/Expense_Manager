@@ -5,4 +5,4 @@ Flutter app that tracks for all your expenses and income, also analyze and repre
 ## Getting Started
 
 
-![plot](D:\newpro\newpro\expense_manager\UI\GET-STARTED-1.png)
+![alt text](https://github.com/Preetmungara/Expense_manager/blob/master/UI/GET%20STARTED%202.png)
